@@ -13,4 +13,4 @@ This is a static clone of Amazon's homepage created using HTML and CSS. It demon
 - **CSS**
 
 ## Live Demo
-[Amazon Clone](https://github.com/Devendra00712/amazon-clone/edit/main/README.md) 
+[Amazon UI Clone](https://github.com/Devendra00712/amazon-clone/edit/main/README.md) 
